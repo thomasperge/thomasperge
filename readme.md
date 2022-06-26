@@ -1,9 +1,9 @@
 ## Made by Thomasperge ❤️ in France
 🥱 I am Thomas, a software engineering student in France🇫🇷. <br>
 😴 I develop when I have time <br>
-🤌 One Piece
+🤌 One Piece <br>
 <br>
-<h4>**My 2 big projects:**<h4><br>
+**My 2 big projects:**<br>
 **[- GoodFarm Discord RPG Bot (4500 users)](https://github.com/thomasperge/GoodFarm-DiscordBot)**<br>
 **[- CryptoCurrency app Desktop](https://github.com/thomasperge/CryptoCurrency-Desktop-apps)**<br>
 
