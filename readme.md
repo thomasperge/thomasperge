@@ -1,7 +1,7 @@
 #### **📜 ``My 2 big projects :``**<br>
 **[🍗 GoodFarm RPG Bot (+11,500 users)](https://github.com/thomasperge/GoodFarm-DiscordBot)** **(✅ Certify by Discord)**<br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Thomasperge&repo=GoodFarm-DiscordBot)](https://github.com/thomasperge/GoodFarm-DiscordBot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Thomasperge&repo=GoodFarm-DiscordBot&bg_color=#202020)](https://github.com/thomasperge/GoodFarm-DiscordBot)
 
 **[📊 CryptoCurrency App Desktop](https://github.com/thomasperge/CryptoCurrency-Desktop-apps)**<br>
 
