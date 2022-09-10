@@ -6,10 +6,9 @@
 **Discord**: **ElThomas#2246**<br>
 
 
-<p align="center">
-  <img alt="Light" src="https://cdn.discordapp.com/attachments/1018205416502607912/1018258054812278835/AssetsCryptoCurrencyPhone.png" width="35%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src=".https://cdn.discordapp.com/attachments/1018205416502607912/1018258054812278835/AssetsCryptoCurrencyPhone.png" width="35%">
+<p float="left">
+  <img src="https://cdn.discordapp.com/attachments/1018205416502607912/1018258054812278835/AssetsCryptoCurrencyPhone.png" width="100" />
+  <img src="https://cdn.discordapp.com/attachments/1018205416502607912/1018258054812278835/AssetsCryptoCurrencyPhone.png" width="100" /> 
 </p>
 
 <br>
