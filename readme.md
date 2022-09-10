@@ -7,9 +7,9 @@
 
 
 <p align="center">
-  <img alt="Light" src="https://cdn.discordapp.com/attachments/1018205416502607912/1018258054812278835/AssetsCryptoCurrencyPhone.png" width="45%">
+  <img alt="Light" src="https://cdn.discordapp.com/attachments/1018205416502607912/1018258054812278835/AssetsCryptoCurrencyPhone.png" width="35%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src=".https://cdn.discordapp.com/attachments/1018205416502607912/1018258054812278835/AssetsCryptoCurrencyPhone.png" width="45%">
+  <img alt="Dark" src=".https://cdn.discordapp.com/attachments/1018205416502607912/1018258054812278835/AssetsCryptoCurrencyPhone.png" width="35%">
 </p>
 
 <br>
