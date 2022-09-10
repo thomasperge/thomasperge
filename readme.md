@@ -5,9 +5,8 @@
 <br>
 
 
-<p float="left">
+<p float="center">
     <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Thomasperge&theme=dark&show_icons=true" width="40%" alt="ElThomas Dev Card"/>
-    <a href="#"><img src="https://cdn.discordapp.com/attachments/1018205416502607912/1018292598902898780/Sans_titre-4.png" width="40%" alt="ElThomas Dev Card"/></a></a>
     <a href="https://app.daily.dev/Thomasperge"><img src="https://api.daily.dev/devcards/788a1841892f4fd7a87b6b8e29a83cc3.png?r=wup" width="48%" alt="ElThomas Dev Card"/></a>
     
 </p>
