@@ -1,4 +1,4 @@
-<a href="https://github.com/thomasperge"><img src="https://cdn.discordapp.com/attachments/1018205416502607912/1018205471326347264/TryBannerGH.png" width="100%" alt="Thomas Kauffmant's Banner"/></a>
+<!-- <a href="https://github.com/thomasperge"><img src="https://cdn.discordapp.com/attachments/1018205416502607912/1018205471326347264/TryBannerGH.png" width="100%" alt="Thomas Kauffmant's Banner"/></a> -->
 
 #### **``My 2 big projects:``**<br>
 **[- GoodFarm Discord RPG Bot (+11500 users) - ✅ Certify by Discord -](https://github.com/thomasperge/GoodFarm-DiscordBot)**<br>
