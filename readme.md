@@ -1,4 +1,4 @@
-#### **📜 ``My 2 big projects :``**<br>
+#### **📜 ``My 2 big projects :``**
 **[🍗 GoodFarm RPG Bot (+11,500 users)](https://github.com/thomasperge/GoodFarm-DiscordBot)** **(✅ Certify by Discord)**<br>
 **[📊 CryptoCurrency App Desktop](https://github.com/thomasperge/CryptoCurrency-Desktop-apps)**<br>
 
