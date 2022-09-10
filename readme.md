@@ -6,8 +6,8 @@
 
 
 <p float="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=Thomasperge&theme=dark&show_icons=true" width="40%" alt="Thomas Kauffmant's Dev Card" style="position:absolute"/>
-    <a href="https://app.daily.dev/Thomasperge"><img src="https://api.daily.dev/devcards/788a1841892f4fd7a87b6b8e29a83cc3.png?r=wup" width="48%" alt="Thomas Kauffmant's Dev Card"/></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=Thomasperge&theme=dark&show_icons=true" width="40%" alt="ElThomas Dev Card"/>
+    <a href="https://app.daily.dev/Thomasperge"><img src="https://api.daily.dev/devcards/788a1841892f4fd7a87b6b8e29a83cc3.png?r=wup" width="48%" alt="ElThomas Dev Card"/></a>
 </p>
 
 <br>
