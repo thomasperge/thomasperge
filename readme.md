@@ -1,9 +1,11 @@
+<div>
 #### **``My 2 big projects:``**<br>
 **[- GoodFarm RPG Bot (+11500 users) - ✅ Certify by Discord](https://github.com/thomasperge/GoodFarm-DiscordBot)**<br>
 **[- CryptoCurrency App Desktop](https://github.com/thomasperge/CryptoCurrency-Desktop-apps)**<br>
 
 **Fiverr**: **[Check my Fiverr](https://fr.fiverr.com/elthomasdev/make-a-professional-discord-bot)**<br>
 **Discord**: **ElThomas#2246**<br>
+</div>
 
 <br>
 
