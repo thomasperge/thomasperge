@@ -4,12 +4,12 @@
 
 <br>
 
-<!-- <img src="https://cdn.discordapp.com/attachments/1018205416502607912/1018278607866572840/TryBannerGH.png" width="48%"/> -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thomasperge&theme=dark&show_icons=true)
 
-<a href="https://app.daily.dev/Thomasperge"><img src="https://api.daily.dev/devcards/788a1841892f4fd7a87b6b8e29a83cc3.png?r=wup" width="30%" alt="Thomas Kauffmant's Dev Card"/></a>
-
+<p float="rigth">
+    <a href="https://app.daily.dev/Thomasperge"><img src="https://api.daily.dev/devcards/788a1841892f4fd7a87b6b8e29a83cc3.png?r=wup" width="30%" alt="Thomas Kauffmant's Dev Card"/></a>
+</p>
 
 <br>
 
