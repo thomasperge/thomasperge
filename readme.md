@@ -1,6 +1,6 @@
 #### **📜 ``My 2 big projects :``**<br>
-**[- GoodFarm RPG Bot (+11,500 users)](https://github.com/thomasperge/GoodFarm-DiscordBot)** **(✅ Certify by Discord)**<br>
-**[- CryptoCurrency App Desktop](https://github.com/thomasperge/CryptoCurrency-Desktop-apps)**<br>
+**[🍗 GoodFarm RPG Bot (+11,500 users)](https://github.com/thomasperge/GoodFarm-DiscordBot)** **(✅ Certify by Discord)**<br>
+**[📊 CryptoCurrency App Desktop](https://github.com/thomasperge/CryptoCurrency-Desktop-apps)**<br>
 
 **Fiverr**: **[Check my Fiverr](https://fr.fiverr.com/elthomasdev/make-a-professional-discord-bot)**<br>
 **Discord**: **ElThomas#2246**<br>
