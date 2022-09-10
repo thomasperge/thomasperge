@@ -1,4 +1,4 @@
-### **🖤 Thomasperge**
+### **🖤 by thomasperge**
 
 #### **📜 ``My 2 big projects :``**<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Thomasperge&repo=GoodFarm&show_owner=true&theme=dark)](https://github.com/thomasperge/GoodFarm)
