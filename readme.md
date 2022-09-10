@@ -6,10 +6,10 @@
 **Discord**: **ElThomas#2246**<br>
 
 
-<p float="left">
+<!-- <p float="left">
   <img src="https://cdn.discordapp.com/attachments/1018205416502607912/1018258054812278835/AssetsCryptoCurrencyPhone.png" width="25%" />
   <img src="https://cdn.discordapp.com/attachments/1018205416502607912/1018258054812278835/AssetsCryptoCurrencyPhone.png" width="25%" /> 
-</p>
+</p> -->
 
 <br>
 
