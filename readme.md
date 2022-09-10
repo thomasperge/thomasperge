@@ -6,10 +6,8 @@
 
 
 <p float="center">
-    <div id="Global">
-        <div id="gauche" style="float:left; width:60%"> <img src="https://github-readme-stats.vercel.app/api?username=Thomasperge&theme=dark&show_icons=true" width="40%" alt="ElThomas Dev Card"/> </div>
-        <div id="droite" style="margin-left:60%"> <img src="https://api.daily.dev/devcards/788a1841892f4fd7a87b6b8e29a83cc3.png?r=wup" width="48%" alt="ElThomas Dev Card"/> </div>
-    </div>
+    <div id="gauche" style="float:left; width:40%"> <img src="https://github-readme-stats.vercel.app/api?username=Thomasperge&theme=dark&show_icons=true" width="40%" alt="ElThomas Dev Card"/> </div>
+    <div id="droite"> <img src="https://api.daily.dev/devcards/788a1841892f4fd7a87b6b8e29a83cc3.png?r=wup" width="48%" alt="ElThomas Dev Card"/> </div>
 </p>
 
 
