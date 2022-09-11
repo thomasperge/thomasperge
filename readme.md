@@ -1,4 +1,7 @@
+<img src=”https://cdn.discordapp.com/attachments/1018205416502607912/1018473655543529492/testbanner.png" alt=”my banner”>
+
 ### **🖤 by thomasperge**
+
 
 #### **📜 ``My 2 big projects :``**<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Thomasperge&repo=GoodFarm&show_owner=true&theme=dark)](https://github.com/thomasperge/GoodFarm)
