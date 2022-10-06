@@ -5,9 +5,7 @@
 
 
 ### **⚒️ ``My 2 big projects :``**<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thomasperge&repo=GoodFarm&show_owner=true&theme=dark" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Thomasperge&repo=CryptoCurrency-Desktop-apps&show_owner=true&theme=dark)](https://github.com/thomasperge/CryptoCurrency-Desktop-apps)
